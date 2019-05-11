@@ -1,4 +1,6 @@
-# Header
+# YYYY-MM-DD - initials - Title of Entry
+
+## Section
 
 Add a table
 https://euangoddard.github.io/clipboard2markdown/
